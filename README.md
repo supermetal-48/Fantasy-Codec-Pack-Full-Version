@@ -221,4 +221,4 @@ This repository serves as the official landing page for Fantasy Codec Pack. The 
 **Get the most recent version of Fantasy Codec Pack today!**
 
 ---
-**Last updated:** 2026-09-12 11:55:03 UTC
+**Last updated:** 2026-09-12 14:51:35 UTC
